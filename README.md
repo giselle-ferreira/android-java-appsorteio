@@ -1,5 +1,5 @@
 > ## About
-- Small Android App developed in Java for study purposes.
+- Small Android Raffle App developed in Java for study purposes.
 
 <img src="https://i.postimg.cc/BncpLyjr/image.png" >
 
